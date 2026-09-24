@@ -1,0 +1,14 @@
+C:\Users\Aabid Khan\OneDrive\Desktop\VariablesPractice\bin\Debug\net10.0\VariablesPractice.exe
+C:\Users\Aabid Khan\OneDrive\Desktop\VariablesPractice\bin\Debug\net10.0\VariablesPractice.deps.json
+C:\Users\Aabid Khan\OneDrive\Desktop\VariablesPractice\bin\Debug\net10.0\VariablesPractice.runtimeconfig.json
+C:\Users\Aabid Khan\OneDrive\Desktop\VariablesPractice\bin\Debug\net10.0\VariablesPractice.dll
+C:\Users\Aabid Khan\OneDrive\Desktop\VariablesPractice\bin\Debug\net10.0\VariablesPractice.pdb
+C:\Users\Aabid Khan\OneDrive\Desktop\VariablesPractice\obj\Debug\net10.0\VariablesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aabid Khan\OneDrive\Desktop\VariablesPractice\obj\Debug\net10.0\VariablesPractice.AssemblyInfoInputs.cache
+C:\Users\Aabid Khan\OneDrive\Desktop\VariablesPractice\obj\Debug\net10.0\VariablesPractice.AssemblyInfo.cs
+C:\Users\Aabid Khan\OneDrive\Desktop\VariablesPractice\obj\Debug\net10.0\VariablesPractice.csproj.CoreCompileInputs.cache
+C:\Users\Aabid Khan\OneDrive\Desktop\VariablesPractice\obj\Debug\net10.0\VariablesPractice.dll
+C:\Users\Aabid Khan\OneDrive\Desktop\VariablesPractice\obj\Debug\net10.0\refint\VariablesPractice.dll
+C:\Users\Aabid Khan\OneDrive\Desktop\VariablesPractice\obj\Debug\net10.0\VariablesPractice.pdb
+C:\Users\Aabid Khan\OneDrive\Desktop\VariablesPractice\obj\Debug\net10.0\VariablesPractice.genruntimeconfig.cache
+C:\Users\Aabid Khan\OneDrive\Desktop\VariablesPractice\obj\Debug\net10.0\ref\VariablesPractice.dll
